@@ -1,0 +1,11 @@
+<html>
+   <head>
+       <link rel="stylesheet" href="/static/css/styles.css"/>
+       <link rel="stylesheet" href="/static/css/error_styles.css"/>
+   </head>
+   <body>
+      <h1 class="typed">Wow, stop everything. An error occurred : {{ error }}.</h1>
+       <script src="/static/js/script.js"></script>
+   </body>
+</html>
+
